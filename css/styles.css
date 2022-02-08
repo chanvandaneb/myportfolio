@@ -1,0 +1,11 @@
+body {
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+h1 {
+    border: pink solid 2px;
+    color: black;
+    background-color: palegreen;
+}
